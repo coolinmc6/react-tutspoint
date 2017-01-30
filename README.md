@@ -1,5 +1,8 @@
 # Readme
 
+## Next Steps
+- I ended on [Component Lifecycle](https://www.tutorialspoint.com/reactjs/reactjs_component_life_cycle.htm)
+
 ## Setup
 
 - Source: [TutorialsPoint React](https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm)
@@ -20,3 +23,8 @@ subl .
 npm start
 ```
 
+## Notes
+
+### [Prop Types and Default Props](https://www.tutorialspoint.com/reactjs/reactjs_props_validation.htm)
+
+- I don't quite get how / why I'd use these right now
